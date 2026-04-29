@@ -1,0 +1,1 @@
+print('Hola gente pensante de planeta tierra')
